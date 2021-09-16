@@ -26,7 +26,7 @@
 
 <img src='images/transform-05.png'>
 
-- Read only 로 시각화를 제공한다.
+- Neo4j ETL Tool의 기능 예시이며, Read only 로 시각화를 제공한다.
 
 ### Transform-06
 
